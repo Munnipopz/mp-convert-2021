@@ -30,4 +30,4 @@ See /help for more!
 
 3. Send me any Telegram File.
 
-4. Reply to that message with /conv
+4. Reply to that message with /conv"""
